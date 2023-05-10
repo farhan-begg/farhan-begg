@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 ![React](https://wallpaperaccess.com/full/3949091.jpg)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=blue)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white)
