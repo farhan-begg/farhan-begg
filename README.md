@@ -1,6 +1,8 @@
 ### Hi there 👋
-![React](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
 ![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=farhan-begg&show_icons=true&theme=transparent)
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white)
 <!--
 **farhan-begg/farhan-begg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
