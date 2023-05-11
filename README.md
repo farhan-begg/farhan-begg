@@ -1,8 +1,3 @@
-
-
-
-<br>
-<br>
 <div align="center">
   <h4> - It works on my machine... </h4>
 <div>
